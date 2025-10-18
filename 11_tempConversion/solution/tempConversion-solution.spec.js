@@ -1,7 +1,7 @@
 const {
   convertToCelsius,
   convertToFahrenheit,
-} = require('./tempConversion-solution');
+} = require('./tempConversion');
 
 describe('convertToCelsius', () => {
   test('works', () => {
